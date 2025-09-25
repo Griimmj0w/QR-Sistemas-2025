@@ -1,2 +1,0 @@
-import joblib
-modelo = joblib.load("artifacts/modelo_desercion.pkl")
